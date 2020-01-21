@@ -1,11 +1,11 @@
-package com.bol.test.assignment;
+package com.hnj.code;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AssigmmentApplication {
+public class EmailValidationApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(AssigmmentApplication.class, args);
+		SpringApplication.run(EmailValidationApplication.class, args);
 	}
 }

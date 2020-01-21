@@ -1,4 +1,4 @@
-package com.bol.test.assignment.util;
+package com.hnj.code.util;
 
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;

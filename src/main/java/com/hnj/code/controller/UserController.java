@@ -1,9 +1,8 @@
-package com.bol.test.assignment.controller;
+package com.hnj.code.controller;
 
-import com.bol.test.assignment.model.User;
-import com.bol.test.assignment.service.UserService;
+import com.hnj.code.model.User;
+import com.hnj.code.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;

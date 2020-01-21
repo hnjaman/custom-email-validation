@@ -1,8 +1,8 @@
-package com.bol.test.assignment.service.impl;
+package com.hnj.code.service.impl;
 
-import com.bol.test.assignment.Repository.UserRepository;
-import com.bol.test.assignment.model.User;
-import com.bol.test.assignment.service.UserService;
+import com.hnj.code.Repository.UserRepository;
+import com.hnj.code.model.User;
+import com.hnj.code.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

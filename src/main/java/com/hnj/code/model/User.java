@@ -1,10 +1,9 @@
-package com.bol.test.assignment.model;
+package com.hnj.code.model;
 
-import com.bol.test.assignment.util.EmailValidator;
+import com.hnj.code.util.EmailValidator;
 import lombok.*;
 
 import javax.persistence.*;
-import javax.validation.constraints.Email;
 
 @NoArgsConstructor
 @Data
@@ -21,7 +20,6 @@ public class User {
    private String lastName;
 
    @Id
-//   @Email(message = "Not a valid email")
    @EmailValidator
    private String email;
 }
