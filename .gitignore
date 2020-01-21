@@ -14,14 +14,8 @@ bin
 *.lnk
 *.orig
 
-
 /oracle/oracle_db/rest/pck/*.bat
 /oracle/oracle_db/rest/pck/login.sql
-
 /oracle/release_files/77.0/sql/login.sql
-
-
 /unit_tests/oracle_db/fim/sqlnet.log
-
-
 /xsd/test.xml

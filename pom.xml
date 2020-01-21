@@ -7,8 +7,8 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Assignment</name>
-    <description>assignment</description>
+    <name>email-validation</name>
+    <description>custom email domain validation</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
