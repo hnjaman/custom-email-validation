@@ -7,5 +7,5 @@ Like your company email is `yourname@example.com`. Here `example.com` is your co
 Application will only accept this domain email as user email. 
 
 ## How you will use this with your domain email?
-Copy the `util` packege from this application and replace `example.com` by your domain from `ExampleEmailValidator.java` file.  
+Copy the `util` package from this application and replace `example.com` by your domain from `ExampleEmailValidator.java` file.  
 Then use the `@EmailValidator` annotation in your model class like `User.java` file in model package.
